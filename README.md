@@ -42,12 +42,12 @@ Enjoy!!!
 
 Follow the instructions in the site of your chosen font. In my case the instructions are here: https://www.onlinewebfonts.com/download/f323892ea5283141dbbbec176c9e3ee7
 
-1. Step 1: copy the link line in your index.html in your react project:
+* Step 1: copy the link line in your index.html in your react project:
 ```
 <link href="https://db.onlinewebfonts.com/c/f323892ea5283141dbbbec176c9e3ee7?family=Antique+Olive+Nord+Italic" rel="stylesheet">
 ```
 
-2. Step 2: I have used the font in Home.css like this:
+* Step 2: I have used the font in Home.css like this:
 ```
 p {
   font-family: "Antique Olive Nord Italic";
